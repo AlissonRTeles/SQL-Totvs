@@ -1,2 +1,2 @@
 # SQL-Totvs
-Curso dado para equipes TOTVS de noções básicas de SQL
+Curso dado para equipes TOTVS de noções básicas de SQL. :neckbeard:
