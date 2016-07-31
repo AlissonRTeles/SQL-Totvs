@@ -1,0 +1,4 @@
+-- Curso de SQL 
+-- Autor: Alissn R. Teles
+-- Data : 1 de agosto de 2016
+-- Descricao: Esse arquivo contem nocoes basicas de sql 
